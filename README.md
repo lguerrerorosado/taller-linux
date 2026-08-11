@@ -1,2 +1,9 @@
-# taller-linux
-Laboratorio
+# Taller Linux
+
+Trabajos realizados con ansible durante el taller
+
+## Contenido
+
+- Inventario
+- Playbooks
+- Files
